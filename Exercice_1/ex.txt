@@ -1,0 +1,4 @@
+Ce sont:
+    variable : $a, $_a, $a_a, $a1
+    constante : $AAA, 
+    invalide : $a!, $1a
